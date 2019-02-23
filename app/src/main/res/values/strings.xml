@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnkoBottomNavBar</string>
+
+    <string name="menu_title_home">Главная</string>
+    <string name="menu_title_users">Участники</string>
+    <string name="menu_title_details">Детали</string>
+    <string name="menu_title_more">Ещё</string>
+
+    <string name="fr_home_title">HOME PAGE</string>
+    <string name="fr_users_title">USERS LIST</string>
+    <string name="fr_details_title">DETAILS PAGE</string>
+    <string name="fr_more_title">MORE</string>
+</resources>
